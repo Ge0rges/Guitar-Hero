@@ -1,0 +1,19 @@
+WIDTH=21;
+
+DEPTH=128;
+
+
+ADDRESS_RADIX=HEX;
+
+DATA_RADIX=DEC;
+
+
+CONTENT 
+BEGIN
+	
+
+0  :   200000;
+1  :   400000;
+2  :   300000;
+
+END;
