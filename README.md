@@ -1,6 +1,6 @@
 # Guitar-Hero
 
-A primitive implementation of a classic game in verilog. This was presented as a final project for CSC258 at the University of Toronto. Co-authored with Lucas Fenaux. 
+A primitive implementation of a classic game in verilog. This was presented as a final project for CSC258 at the University of Toronto. Co-authored with [Lucas Fenaux](https://github.com/LucasFenaux). 
 
 The game scrolls from bottom up and includes a random number generator that selects randomly among predefined patterns. The game in it's current state does not speed up/slow down. To play, hook up to a monitor and use the A,S,L and ; keys on your keyboard that respectively correspond to column 1,2,3,4 (Player 1: c1,c2; Player 2: c3,c4).
 
